@@ -1,4 +1,4 @@
-Test Rails Blog App
+Test Rails Blog App-Brittany
 == README - updated
 
 This README would normally document whatever steps are necessary to get the
